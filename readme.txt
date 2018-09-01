@@ -7,4 +7,8 @@ Creating a new branch is quick & simple
 =======
 Creating a new branch is quick & simple
 >>>>>>> featurel
+<<<<<<< Updated upstream
 git is a free software
+=======
+thank you
+>>>>>>> Stashed changes
